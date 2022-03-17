@@ -1,0 +1,9 @@
+node_modules
+.env
+cdk.out
+yarn-error.log
+template.yaml
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+.pnp.*
